@@ -12,17 +12,26 @@
             "ext": "./lib/tokenm.json$$$./lib/douban.json"
         },
         {
+            "key": "测试",
+            "name": "🔞测试",
+            "type": 3,
+            "api": "./py/测试.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": " py模板",
             "name": "🔞py模板",
             "type": 3,
-            "api": "./py/py模板.py",
+            "api": "./py/模板.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
             "key": "json模板",
-            "name": "🔞json模板",
+            "name": "🔞模板",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,

@@ -15,7 +15,7 @@
             "key": "py模板",
             "name": "py模板",
             "type": 3,
-            "api": "./py/lives合集.py",
+            "api": "./py/py模板.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
