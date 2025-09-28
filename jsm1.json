@@ -144,6 +144,15 @@
             "filterable": 1
         },
         {
+            "key": "永樂視頻",
+            "name": "永樂視頻",
+            "type": 3,
+            "api": "./py/永樂視頻.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "路漫漫动漫",
             "name": "路漫漫动漫",
             "type": 3,
