@@ -12,10 +12,19 @@
             "ext": "./lib/tokenm.json$$$./lib/douban.json"
         },
         {
-            "key": "py模板",
-            "name": " py模板",
+            "key": "py模板1",
+            "name": " lives合集视APP",
             "type": 3,
-            "api": "./py/模板.py",
+            "api": "./py/lives合集.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "py模板",
+            "name": " py零度影视APP",
+            "type": 3,
+            "api": "./py/零度影视APP.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
