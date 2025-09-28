@@ -12,19 +12,10 @@
             "ext": "./lib/tokenm.json$$$./lib/douban.json"
         },
         {
-            "key": "py模板1",
-            "name": " lives合集视APP",
+            "key": "py模板",
+            "name": "py模板",
             "type": 3,
             "api": "./py/lives合集.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "py模板",
-            "name": " py零度影视APP",
-            "type": 3,
-            "api": "./py/零度影视APP.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -130,6 +121,15 @@
             "name": "py_bilibilivd",
             "type": 3,
             "api": "./py/py_bilibilivd.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "lives合集视APP",
+            "name": "lives合集视APP",
+            "type": 3,
+            "api": "./py/lives合集.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -307,6 +307,15 @@
             "name": "热播APP",
             "type": 3,
             "api": "./py/热播APP.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "零度影视APP",
+            "name": "零度影视APP",
+            "type": 3,
+            "api": "./py/零度影视APP.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -2447,7 +2456,7 @@
             "type": 0,
             "url": "https://tvv.tw/https://raw.githubusercontent.com/CCSH/IPTV/main/others.txt"
         },
-         {
+        {
             "name": "888每天更新❤️",
             "type": 0,
             "url": "https://tvv.tw/https://raw.githubusercontent.com/ffmking/tv1/main/888.txt"
