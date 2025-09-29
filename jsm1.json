@@ -12,27 +12,6 @@
             "ext": "./lib/tokenm.json$$$./lib/douban.json"
         },
         {
-            "key": "py模板",
-            "name": "",
-            "type": 3,
-            "api": "./py/py模板.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "json模板",
-            "name": "",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "ext": "./json/模板.json"
-        },
-        {
             "key": "Local",
             "name": "本地",
             "type": 3,
@@ -121,15 +100,6 @@
             "name": "py_bilibilivd",
             "type": 3,
             "api": "./py/py_bilibilivd.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "lives合集视APP",
-            "name": "lives合集视APP",
-            "type": 3,
-            "api": "./py/lives合集.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
