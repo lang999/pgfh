@@ -12,17 +12,8 @@
             "ext": "./lib/tokenm.json$$$./lib/douban.json"
         },
         {
-            "key": "测试",
-            "name": "🔞测试",
-            "type": 3,
-            "api": "./py/测试.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": " py模板",
-            "name": "🔞py模板",
+            "name": "",
             "type": 3,
             "api": "./py/模板.py",
             "searchable": 1,
@@ -31,7 +22,7 @@
         },
         {
             "key": "json模板",
-            "name": "🔞模板",
+            "name": "",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -2489,7 +2480,7 @@
         },
         {
             "key": "黄精影院",
-            "name": "黄精🌼影院",
+            "name": "🔞黄精影院🌼",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./jar/XBPQ.jar",
@@ -2675,7 +2666,7 @@
         },
         {
             "key": "yubanghanzhu",
-            "name": "👀玉蚌含珠👀",
+            "name": "🔞玉蚌含珠👀",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./jar/XBPQ.jar",
