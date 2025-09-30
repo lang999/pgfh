@@ -165,15 +165,6 @@
             "filterable": 1
         },
         {
-            "key": "4kvm",
-            "name": "4kvm",
-            "type": 3,
-            "api": "./py/4kvm.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "actor",
             "name": "actor",
             "type": 3,
@@ -2393,6 +2384,15 @@
                 "分类url": "https://www.2kdm.vip/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}",
                 "分类": "国产动漫$2#日本动漫$1#欧美动漫$3#动漫电影$4"
             }
+        },
+        {
+            "key": "4kvm",
+            "name": "4kvm",
+            "type": 3,
+            "api": "./py/4kvm.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "redflix带字幕版",
