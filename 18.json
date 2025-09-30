@@ -13,9 +13,9 @@
         },
         {
             "key": " py模板",
-            "name": "",
+            "name": "py模板",
             "type": 3,
-            "api": "./py/模板.py",
+            "api": "./py/py模板.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -451,6 +451,15 @@
             "name": "🔞一个区",
             "type": 3,
             "api": "./py/一个区.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+                {
+            "key": " 葡萄5区",
+            "name": "葡萄5区",
+            "type": 3,
+            "api": "./py/葡萄5区.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
