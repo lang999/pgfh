@@ -455,7 +455,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-                {
+        {
             "key": " 葡萄5区",
             "name": "葡萄5区",
             "type": 3,
@@ -5222,6 +5222,11 @@
             "name": "黄色仓库",
             "type": 0,
             "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/hsck.txt"
+        },
+        {
+            "name": "Y仓库",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/yck.txt"
         },
         {
             "name": "黄色仓库2024",
