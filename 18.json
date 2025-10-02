@@ -11,6 +11,7 @@
             "indexs": 1,
             "ext": "./lib/tokenm.json$$$./lib/douban.json"
         },
+        
         {
             "key": " py模板",
             "name": "py模板",
@@ -22,7 +23,7 @@
         },
         {
             "key": "json模板",
-            "name": "",
+            "name": "json模板",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -457,7 +458,7 @@
         },
         {
             "key": " 葡萄5区",
-            "name": "葡萄5区",
+            "name": "🔞葡萄5区",
             "type": 3,
             "api": "./py/葡萄5区.py",
             "searchable": 1,
@@ -2963,6 +2964,20 @@
             "api": "csp_XBPQ",
             "jar": "./jar/xyqxbpq.jar",
             "ext": "./json/69超级影院.json"
+        },
+        {
+            "key": "姐姐B",
+            "name": "🔞姐姐B",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "分类url": "https://jiejie.jiejieb31.fun/jiejie/vod/type/id/{cateId}/page/{catePg}.html;;z",
+                "分类": "国产视频$1#网曝吃瓜$2#日本无码$3#日本有码$4#无码中字$5#有码中字$6#欧美视频$7#成人动漫$8"
+            }
         },
         {
             "key": "BtSow",
