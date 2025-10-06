@@ -12,8 +12,8 @@
             "ext": "./lib/tokenm.json$$$./lib/douban.json"
         },
         {
-            "key": " py模板",
-            "name": "py模板",
+            "key": "py模板",
+            "name": "🔞py模板(翻)",
             "type": 3,
             "api": "./py/py模板.py",
             "searchable": 1,
@@ -2999,6 +2999,15 @@
             "timeout": 60
         },
         {
+            "key": "Cam4直播",
+            "name": "🔞Cam4直播(翻)",
+            "type": 3,
+            "api": "./py/cam4.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "七区",
             "name": "🔞七区(翻)",
             "type": 3,
@@ -3843,14 +3852,20 @@
         },
         {
             "key": "Xojav",
-            "name": "🔞Xojav(翻)",
+            "name": "🔞XOJav(翻)",
             "type": 3,
             "api": "csp_Xojav",
+            "jar": "./jar/moyu.jar",
+            "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "filterable": 1,
+            "filterable": 0,
             "timeout": 60,
-            "ext": "proxy3"
+            "ext": "null$$$proxy",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
         },
         {
             "key": "csp_JavBus",
