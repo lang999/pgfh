@@ -3108,6 +3108,15 @@
             "filterable": 1
         },
         {
+            "key": "xhm",
+            "name": "🔞xhm(翻)",
+            "type": 3,
+            "api": "./py/xhm.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "七区",
             "name": "🔞七区(翻)",
             "type": 3,
@@ -4883,28 +4892,10 @@
             "filterable": 1
         },
         {
-            "key": "Xhm",
-            "name": "🔞Xhm(翻)",
-            "type": 3,
-            "api": "./py/Xhm.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "py_Xhm",
             "name": "🔞Xhamster(翻)",
             "type": 3,
             "api": "./py/py_Xhm.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "xhamster",
-            "name": "🔞xhamster(翻)",
-            "type": 3,
-            "api": "./py/xhamster.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
