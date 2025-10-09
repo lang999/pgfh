@@ -114,6 +114,27 @@
             "filterable": 1
         },
         {
+            "key": "云云emby",
+            "name": "✨云云|EMBY✨",
+            "type": 3,
+            "api": "./PY/emby.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "server": "https://6666456.xyz:443",
+                "username": "chuxin",
+                "password": "chuxin666",
+                "proxy": "",
+                "thread": 0,
+                "device_name": "My Computer",
+                "client": "Hills Windows",
+                "client_version": "0.2.2",
+                "device_id": "c81cce8d-5824-4730-a45b-14755c6fb028"
+            }
+        },
+        {
             "key": "永樂視頻",
             "name": "永樂視頻",
             "type": 3,
