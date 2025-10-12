@@ -12,17 +12,17 @@
             "ext": "./lib/tokenm.json$$$./lib/douban.json"
         },
         {
-            "key": "模板",
-            "name": "🔞模板(翻)",
+            "key": "py模板",
+            "name": "🔞py模板(翻)",
             "type": 3,
-            "api": "./py/模板.py",
+            "api": "./py/py模板.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
             "key": "json模板",
-            "name": "json模板",
+            "name": "🔞json模板",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -30,7 +30,7 @@
             "changeable": 1,
             "api": "csp_XBPQ",
             "jar": "./jar/XBPQ.jar",
-            "ext": "./json/模板.json"
+            "ext": "./json/json模板.json"
         },
         {
             "key": "Local",
