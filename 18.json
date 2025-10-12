@@ -1,5 +1,6 @@
 {
     "spider": "./pg.jar",
+    "logo": "./T.jpg",
     "sites": [
         {
             "key": "豆瓣",
