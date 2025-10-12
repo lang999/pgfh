@@ -87,6 +87,18 @@
             "filterable": 1
         },
         {
+            "key": "啊哈DJ网",
+            "name": "啊哈DJ网",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "ext": "./json/啊哈DJ网.json"
+        },
+        {
             "key": "YYMP3音乐网",
             "name": "YYMP3音乐网",
             "type": 3,
@@ -115,7 +127,7 @@
         },
         {
             "key": "云云emby",
-            "name": "✨云云|EMBY✨",
+            "name": "云云EMBY",
             "type": 3,
             "api": "./PY/emby.py",
             "searchable": 1,
@@ -132,6 +144,17 @@
                 "client": "Hills Windows",
                 "client_version": "0.2.2",
                 "device_id": "c81cce8d-5824-4730-a45b-14755c6fb028"
+            }
+        },
+        {
+            "key": "皮皮妖影视",
+            "name": "皮皮妖影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "jar": "./jar/xbpq.jar",
+            "ext": {
+                "分类url": "https://www.pipiyao.cc/type/{cateId}.html"
             }
         },
         {
