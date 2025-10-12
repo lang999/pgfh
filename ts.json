@@ -1,6 +1,6 @@
 {
     "spider": "./jar/xyqxbpq.jar",
-    "logo": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/main/T.jpg",
+    "logo": "./T.jpg",
     "sites": [
         {
             "key": "比比ting's'q",

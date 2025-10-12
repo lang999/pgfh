@@ -1,5 +1,5 @@
 {
-    "logo": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/main/T.jpg",
+    "logo": "./T.jpg",
     "sites": [
         {
             "key": "py_DianYingTanTang",
