@@ -3144,6 +3144,17 @@
             "ext": "./json/自排偷拍.json"
         },
         {
+            "key": "lsp传媒",
+            "name": "🔞lsp传媒",
+            "type": 3,
+            "api": "./py/lsp传媒.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": ""
+        },
+        {
             "key": "BtSow",
             "name": "🔞BtSow磁力",
             "type": 3,
@@ -3189,6 +3200,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "ThePorn",
+            "name": "🔞ThePorn(翻)",
+            "type": 3,
+            "api": "./py/ThePorn.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": ""
         },
         {
             "key": "七区",

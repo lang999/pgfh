@@ -1396,8 +1396,9 @@
             "name": "闪电资源(🔥)",
             "type": 0,
             "api": "https://shandianzy.com/api.php/provide/vod/at/xml",
-            "searchable": 1,
             "quickSearch": 1,
+            "searchable": 1,
+            "changeable": 1,
             "categories": [
                 "邵氏电影",
                 "动作片",
