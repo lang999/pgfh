@@ -1,6 +1,6 @@
 {
     "spider": "./pg.jar",
-    "logo": "./T.jpg",
+    "logo": "./T.gif",
     "sites": [
         {
             "key": "豆瓣",
@@ -14,7 +14,7 @@
         },
         {
             "key": "py模板",
-            "name": "🔞py模板(翻)",
+            "name": "🔞py模板",
             "type": 3,
             "api": "./py/py模板.py",
             "searchable": 1,
@@ -31,7 +31,7 @@
             "changeable": 1,
             "api": "csp_XBPQ",
             "jar": "./jar/XBPQ.jar",
-            "ext": "./json/json模板.json"
+            "ext": "./json/模板.json"
         },
         {
             "key": "Local",
@@ -199,6 +199,24 @@
             "name": "🔞色播聚合",
             "type": 3,
             "api": "./py/py_色播聚合.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "黄色仓库py",
+            "name": "🔞黄色仓库py",
+            "type": 3,
+            "api": "./py/黄色仓库.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "九个区",
+            "name": "🔞九个区",
+            "type": 3,
+            "api": "./py/九个区.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1631,15 +1649,6 @@
                 "分类ID": "index.php/vod/type/id/&&.html",
                 "分类url": "/123/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"
             }
-        },
-        {
-            "key": "香蕉",
-            "name": "🔞香蕉",
-            "type": 3,
-            "api": "./py/香蕉.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "猫咪视频 ",
@@ -3155,6 +3164,33 @@
             "ext": ""
         },
         {
+            "key": "18",
+            "name": "🔞18",
+            "type": 3,
+            "api": "./py/18.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "四虎视频",
+            "name": "🔞四虎视频",
+            "type": 3,
+            "api": "./py/四虎视频.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "91rb",
+            "name": "🔞91rb",
+            "type": 3,
+            "api": "./py/91rb.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "BtSow",
             "name": "🔞BtSow磁力",
             "type": 3,
@@ -3211,6 +3247,24 @@
             "filterable": 1,
             "order_num": 0,
             "ext": ""
+        },
+        {
+            "key": "今日看料-",
+            "name": "🔞今日看料(翻)",
+            "type": 3,
+            "api": "./py/今日看料.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "51吸瓜",
+            "name": "🔞51吸瓜(翻)",
+            "type": 3,
+            "api": "./py/51吸瓜.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "七区",
@@ -4980,6 +5034,15 @@
             "name": "🔞黑料(翻)",
             "type": 3,
             "api": "./py/黑料.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "黑料不打烊",
+            "type": 3,
+            "api": "./py/黑料不打烊.py",
+            "name": "🔞黑料不打烊(翻)",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1

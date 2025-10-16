@@ -32,6 +32,15 @@
             }
         },
         {
+            "key": "應用商店",
+            "name": "應用商店",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://fm.t4tv.hz.cz/json/market.json"
+        },
+        {
             "key": "bili",
             "name": "B站",
             "type": 3,
@@ -47,25 +56,22 @@
             }
         },
         {
-            "key": "應用商店",
-            "name": "應用商店",
+            "key": "py_bilibilivd",
+            "name": "py_bilibilivd",
             "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://fm.t4tv.hz.cz/json/market.json"
+            "api": "./py/py_bilibilivd.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
-            "name": "嗷呜弹幕",
-            "key": "嗷呜弹幕",
+            "key": "B站视频",
+            "name": "B站视频",
             "type": 3,
-            "api": "csp_GoConfig",
-            "jar": "http://aw.0890.dpdns.org/spider/custom_spider.jar",
-            "indexs": 1,
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0
+            "api": "./py/bili.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "CCTV",
@@ -104,15 +110,6 @@
             "name": "YYMP3音乐网",
             "type": 3,
             "api": "./py/YYMP3音乐网.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "py_bilibilivd",
-            "name": "py_bilibilivd",
-            "type": 3,
-            "api": "./py/py_bilibilivd.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -244,15 +241,6 @@
             "name": "actor",
             "type": 3,
             "api": "./py/actor.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "4KAV",
-            "name": "4KAV",
-            "type": 3,
-            "api": "./py/4KAV.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
