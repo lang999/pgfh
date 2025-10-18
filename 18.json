@@ -31,7 +31,7 @@
             "changeable": 1,
             "api": "csp_XBPQ",
             "jar": "./jar/XBPQ.jar",
-            "ext": "./json/模板.json"
+            "ext": "./json/json模板.json"
         },
         {
             "key": "Local",
@@ -3191,6 +3191,18 @@
             "filterable": 1
         },
         {
+            "key": "85po",
+            "name": "🔞85po",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "ext": "./json/85po.json"
+        },
+        {
             "key": "BtSow",
             "name": "🔞BtSow磁力",
             "type": 3,
@@ -3310,6 +3322,24 @@
             "api": "csp_XBPQ",
             "jar": "./jar/xyqxbpq.jar",
             "ext": "./json/91黑料.json"
+        },
+        {
+            "key": "黑料",
+            "name": "🔞黑料(翻)",
+            "type": 3,
+            "api": "./py/黑料.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "黑料不打烊",
+            "type": 3,
+            "api": "./py/黑料不打烊.py",
+            "name": "🔞黑料不打烊(翻)",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "18j",
@@ -5025,24 +5055,6 @@
             "name": "🔞推特APP(翻)",
             "type": 3,
             "api": "./py/推特APP.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "黑料",
-            "name": "🔞黑料(翻)",
-            "type": 3,
-            "api": "./py/黑料.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "黑料不打烊",
-            "type": 3,
-            "api": "./py/黑料不打烊.py",
-            "name": "🔞黑料不打烊(翻)",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
