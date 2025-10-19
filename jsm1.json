@@ -152,7 +152,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0
-        },
+        }，
         {
             "key": "云云emby",
             "name": "云云EMBY",
@@ -173,7 +173,7 @@
                 "client_version": "0.2.2",
                 "device_id": "c81cce8d-5824-4730-a45b-14755c6fb028"
             }
-        },
+        }，
         {
             "key": "皮皮妖影视",
             "name": "皮皮妖影视",
@@ -184,7 +184,7 @@
             "ext": {
                 "分类url": "https://www.pipiyao.cc/type/{cateId}.html"
             }
-        },
+        }，
         {
             "key": "永樂視頻",
             "name": "永樂視頻",
@@ -193,7 +193,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
+        }，
         {
             "key": "路漫漫动漫",
             "name": "路漫漫动漫",
@@ -205,7 +205,7 @@
             "api": "csp_XBPQ",
             "jar": "./jar/xyqxbpq.jar",
             "ext": "./json/路漫漫动漫.json"
-        },
+        }，
         {
             "key": "荐片影视",
             "name": "荐片影视",
@@ -214,7 +214,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
+        }，
         {
             "key": "魅影视频",
             "name": "魅影视频",
@@ -298,7 +298,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
+        }，
         {
             "key": "嗷呜动漫",
             "name": "嗷呜动漫",
@@ -1252,7 +1252,7 @@
                 "语言": "国语&英语&粤语&韩语&日语&其他||普通话&英语&粤语&韩语&日语&泰语&其他||国语&英语&粤语&韩语&日语&其他||国语&英语&日语&其他",
                 "语言值": "*"
             }
-        },
+        }，
         {
             "key": "四海影院",
             "name": "🌊四海影院",
@@ -2046,7 +2046,7 @@
                 "分类url": "https://m.yncmfs.com/vssysw/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$31"
             }
-        },
+        }，
         {
             "key": "电影先生1",
             "name": "🕴️电影先生",
@@ -2197,7 +2197,7 @@
                 "线路标题": ">&&</a>",
                 "跳转播放链接": "var player_*\"url\":\"&&\""
             }
-        },
+        }，
         {
             "key": "蒜瓣影视",
             "name": "🧄蒜瓣影视",
@@ -2501,7 +2501,7 @@
         {
             "name": "大烩菜🌈",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/dahuicai.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/main/zb/dahuicai.txt"
         },
         {
             "name": "myDS❤️",
@@ -2617,12 +2617,7 @@
             "name": "vicjl(sdyd-iptv)❤️",
             "type": 0,
             "url": "https://down.nigx.cn/raw.githubusercontent.com/vicjl/myIPTV/main/sdyd-iptv.m3u"
-        }，
-        {
-            "name": "典藏版IPV4专用❤️",
-            "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u"
-        },
+        }，    
         {
             "name": "B站直播❤️",
             "type": 0,
@@ -2644,9 +2639,39 @@
             "url": "https://tvv.tw/raw.githubusercontent.com/mursor1985/LIVE/main/yylunbo.m3u"
         }，
         {
+            "name": "典藏版IPV4专用❤️",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u"
+        },
+        {
+            "name": "裤佬永久IPTV❤️",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"
+        },
+        {
+            "name": "jack2713(dy)❤️",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/jack2713/my/main/dy.txt"
+        },
+        {
+            "name": "jack2713(my)❤️",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/suxuang/myIPTV/main/my.txt"
+        },
+        {
+            "name": "jack2713(myq)❤️",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/suxuang/myIPTV/main/myq.txt"
+        },
+        {
+            "name": "jack2713(my03)❤️",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/jack2713/my/main/my03.txt"
+        },
+        {
             "name": "电影🎬",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/dy.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/main/zb/dy.txt"
         }，
         {
             "name": "时装秀😍",
