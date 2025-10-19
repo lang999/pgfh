@@ -204,6 +204,27 @@
             "filterable": 1
         },
         {
+            "key": "js_madou",
+            "name": "🔞麻豆(js)",
+            "type": 3,
+            "api": "./js/麻豆.min.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {}
+        },
+        {
+            "key": "好色TV",
+            "name": "🔞好色TV",
+            "type": 3,
+            "api": "./py/好色TV.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
             "key": "黄色仓库py",
             "name": "🔞黄色仓库py",
             "type": 3,
@@ -5041,16 +5062,6 @@
             "filterable": 1
         },
         {
-            "key": "好色TV",
-            "name": "🔞好色TV(翻)",
-            "type": 3,
-            "api": "./py/好色TV.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "推特APP",
             "name": "🔞推特APP(翻)",
             "type": 3,
@@ -5387,6 +5398,14 @@
         }
     ],
     "lives": [
+        {
+            "name": "SMT直播(py)",
+            "type": 3,
+            "api": "./SMT.py",
+            "ext": {
+                "proxy": "http://192.168.31.13:10808"
+            }
+        },
         {
             "name": "裤佬",
             "type": 0,
