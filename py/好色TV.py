@@ -13,11 +13,9 @@ class Spider(Spider):
     def __init__(self):
         # 基础配置
         self.name = '好色TV（优）'
-        self.host = 'https://hsex.icu/'
+        self.host = 'https://m.ml0987.online/'
         self.candidate_hosts = [
-            "https://hsex.icu/",
-            "https://hsex1.icu/",
-            "https://hsex.tv/"
+            "https://m.ml0987.online/"
         ]
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
@@ -387,15 +385,16 @@ class Spider(Spider):
             
             # 修复搜索翻页：根据页码构造正确的搜索URL
             if int(pg) == 1:
-                # 第一页：/search.htm?search=关键词
+                # 第一页：/search.htm?search=关键词&sort=new
                 search_url = f"{self.host}search.htm"
             else:
-                # 第二页及以后：/search-页码.htm?search=关键词  
+                # 第二页及以后：/search-页码.htm?search=关键词&sort=new  
                 search_url = f"{self.host}search-{pg}.htm"
             
-            # 搜索参数
+            # 搜索参数 - 添加 sort=new 参数
             params = {
-                'search': encoded_key
+                'search': encoded_key,
+                'sort': 'new'  # 新增排序参数
             }
             
             # 发起请求
