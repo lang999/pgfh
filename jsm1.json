@@ -115,15 +115,6 @@
             "filterable": 1
         },
         {
-            "key": "LIVES",
-            "name": "LIVES",
-            "type": 3,
-            "api": "./py/LIVES.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "努努影院",
             "name": "努努影院",
             "type": 3,
