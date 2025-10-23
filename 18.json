@@ -13,6 +13,17 @@
             "ext": "./lib/tokenm.json$$$./lib/douban.json"
         },
         {
+            "key": "js模板",
+            "name": "🔞js模板js)",
+            "type": 3,
+            "api": "./js/js模板.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {}
+        },
+        {
             "key": "py模板",
             "name": "🔞py模板",
             "type": 3,
@@ -204,6 +215,18 @@
             "filterable": 1
         },
         {
+            "key": "17av",
+            "name": "🔞17av",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "ext": "./json/17av.json"
+        },
+        {
             "key": "js_madou",
             "name": "🔞麻豆(js)",
             "type": 3,
@@ -213,6 +236,27 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {}
+        },
+        {
+            "key": "js_ying_hua",
+            "name": "🔞樱花视频(js)",
+            "type": 3,
+            "api": "./js/樱花视频.min.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {}
+        },
+        {
+            "key": "js_ttt",
+            "name": "🔞禁漫天堂(js)",
+            "type": 3,
+            "api": "./js/禁漫天堂.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
         },
         {
             "key": "好色TV",
@@ -371,6 +415,16 @@
             "api": "csp_XBPQ",
             "jar": "./jar/xyqxbpq.jar",
             "ext": "./json/奶妃Online.json"
+        },
+        {
+            "key": "花都影院py",
+            "name": "🔞花都影院py",
+            "type": 3,
+            "api": "./py/花都影院.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "花都影院",
@@ -3244,6 +3298,16 @@
             "timeout": 60
         },
         {
+            "key": "熊猫直播",
+            "name": "🔞熊猫直播(翻)",
+            "type": 3,
+            "api": "./py/熊猫直播.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
             "key": "Cam4直播",
             "name": "🔞Cam4直播(翻)",
             "type": 3,
@@ -5116,6 +5180,18 @@
             "filterable": 1
         },
         {
+            "key": "P站py",
+            "name": "🔞P站(翻)",
+            "type": 3,
+            "searchable": 1,
+            "api": "./py/Pornhub.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
             "key": "DSYS",
             "name": "🔞DSYS(翻)",
             "type": 3,
@@ -5442,6 +5518,22 @@
             "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/gat.txt"
         },
         {
+            "name": "黄色",
+            "url": "https://down.nigx.cn/mpimg.cn/down.php/25da10b0cb7b90d422ae22852bd7d414.txt"
+        },
+        {
+            "name": "日本",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp_clean.m3u"
+        },
+        {
+            "name": "日本1",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp.m3u"
+        },
+        {
+            "name": "秘密花园",
+            "url": "https://down.nigx.cn/mmhy.zzong6599.workers.dev/"
+        },
+        {
             "name": "三级",
             "type": 0,
             "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/sj.txt"
@@ -5730,17 +5822,6 @@
             "name": "豆豆",
             "type": 0,
             "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/doudou.txt"
-        },
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "redirect",
-                    "urls": [
-                        "proxy://do=live&type=live&proxy=&url="
-                    ]
-                }
-            ]
         }
     ],
     "doh": [

@@ -115,10 +115,10 @@
             "filterable": 1
         },
         {
-            "key": "js_en_gf",
+            "key": "js_guan_fang_cai_ji",
             "name": "官方采集(js)",
             "type": 3,
-            "api": "./js/en_gf.js",
+            "api": "./js/官方采集.min.js",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -158,6 +158,16 @@
             "name": "🍋动漫巴士(T4)",
             "type": 4,
             "api": "https://py.doube.eu.org/spider?site=Dm84",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "py_dm84",
+            "name": "动漫巴士(py)",
+            "type": 3,
+            "api": "./py/动漫巴士.py",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -251,6 +261,24 @@
             "name": "actor",
             "type": 3,
             "api": "./py/actor.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "4kvm",
+            "name": "4kvm",
+            "type": 3,
+            "api": "./py/4kvm.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "4K影视",
+            "name": "4K影视",
+            "type": 3,
+            "api": "./py/4K影视.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -2686,6 +2714,10 @@
             "url": "https://down.nigx.cn/raw.githubusercontent.com/jack2713/my/main/my03.txt"
         },
         {
+            "name": "电视家",
+            "url": "https://down.nigx.cn/dsj.zzong6599.workers.dev/"
+        },
+        {
             "name": "catvod",
             "url": "https://live.catvod.com/tv.m3u",
             "header": {
@@ -2791,17 +2823,6 @@
             "name": "歌曲9🎵",
             "type": 0,
             "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/gq9.txt"
-        },
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "redirect",
-                    "urls": [
-                        "proxy://do=live&type=live&proxy=&url="
-                    ]
-                }
-            ]
         }
     ],
     "doh": [
