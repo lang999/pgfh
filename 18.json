@@ -14,7 +14,7 @@
         },
         {
             "key": "js模板",
-            "name": "🔞js模板js)",
+            "name": "🔞js模板(js)",
             "type": 3,
             "api": "./js/js模板.js",
             "searchable": 1,
@@ -3326,15 +3326,6 @@
             "filterable": 1
         },
         {
-            "key": "xhm",
-            "name": "🔞xhm(翻)",
-            "type": 3,
-            "api": "./py/xhm.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "ThePorn",
             "name": "🔞ThePorn(翻)",
             "type": 3,
@@ -3362,6 +3353,39 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "91吃瓜",
+            "name": "🔞91吃瓜(翻)",
+            "type": 3,
+            "api": "./py/91吃瓜.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "91网爆黑料",
+            "name": "🔞91网爆黑料(翻)",
+            "type": 3,
+            "api": "./py/91网爆黑料.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "uaa有声",
+            "name": "🔞uaa有声(翻)",
+            "type": 3,
+            "api": "./py/uaa有声.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
         },
         {
             "key": "七区",
@@ -4966,14 +4990,6 @@
             "ext": "./json/一根逼毛.json"
         },
         {
-            "key": "hamster",
-            "name": "🔞hamster(翻)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "ext": "./json/hamster.json"
-        },
-        {
             "key": "abjav",
             "name": "🔞abjav(翻)",
             "type": 3,
@@ -5162,13 +5178,33 @@
             "filterable": 1
         },
         {
+            "key": "xhm",
+            "name": "🔞xhm(翻)",
+            "type": 3,
+            "api": "./py/xhm.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "py_Xhm",
-            "name": "🔞Xhamster(翻)",
+            "name": "🔞py_Xhm(翻)",
             "type": 3,
             "api": "./py/py_Xhm.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "xhamster",
+            "name": "🔞xhamster(翻)",
+            "type": 3,
+            "api": "./py/xhamster.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
         },
         {
             "key": "Phb",
@@ -5530,8 +5566,21 @@
             "url": "https://down.nigx.cn/raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp.m3u"
         },
         {
+            "name": "随机视频",
+            "url": "https://sjsp.zzong6599.workers.dev"
+        },
+        {
+            "name": "随机亚麻跌",
+            "url": "https://sjymd.zzong6599.workers.dev"
+        },
+        {
             "name": "秘密花园",
             "url": "https://down.nigx.cn/mmhy.zzong6599.workers.dev/"
+        },
+        {
+            "name": "秘密花园直播",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/mmhy.txt"
         },
         {
             "name": "三级",
@@ -5567,11 +5616,6 @@
             "name": "午夜",
             "type": 0,
             "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/0.txt"
-        },
-        {
-            "name": "秘密花园直播",
-            "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/mmhy.txt"
         },
         {
             "name": "Adult HD",

@@ -56,19 +56,19 @@
             }
         },
         {
-            "key": "py_bilibilivd",
-            "name": "py_bilibilivd",
+            "key": "B站视频",
+            "name": "B站视频",
             "type": 3,
-            "api": "./py/py_bilibilivd.py",
+            "api": "./py/bili.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "B站视频",
-            "name": "B站视频",
+            "key": "py_bilibilivd",
+            "name": "py_bilibilivd",
             "type": 3,
-            "api": "./py/bili.py",
+            "api": "./py/py_bilibilivd.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -125,53 +125,13 @@
             "changeable": 0
         },
         {
-            "key": "努努影院",
-            "name": "努努影院",
+            "key": "云云",
+            "name": "云云",
             "type": 3,
-            "api": "./py/努努影院.py",
+            "api": "./py/云云.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "py_DianYingTanTang",
-            "name": "🫐电影天堂(T4)",
-            "type": 4,
-            "api": "https://py.doube.eu.org/spider?site=DianYingTanTang",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "py_OleVod",
-            "name": "🍉欧乐影院(T4)",
-            "type": 4,
-            "api": "https://py.doube.eu.org/spider?site=OleVod",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "py_Dm84",
-            "name": "🍋动漫巴士(T4)",
-            "type": 4,
-            "api": "https://py.doube.eu.org/spider?site=Dm84",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "py_dm84",
-            "name": "动漫巴士(py)",
-            "type": 3,
-            "api": "./py/动漫巴士.py",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
         },
         {
             "key": "云云emby",
@@ -204,6 +164,15 @@
             "ext": {
                 "分类url": "https://www.pipiyao.cc/type/{cateId}.html"
             }
+        },
+        {
+            "key": "努努影院",
+            "name": "努努影院",
+            "type": 3,
+            "api": "./py/努努影院.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "永樂視頻",
@@ -255,6 +224,46 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "py_DianYingTanTang",
+            "name": "🫐电影天堂(T4)",
+            "type": 4,
+            "api": "https://py.doube.eu.org/spider?site=DianYingTanTang",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "py_OleVod",
+            "name": "🍉欧乐影院(T4)",
+            "type": 4,
+            "api": "https://py.doube.eu.org/spider?site=OleVod",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "py_Dm84",
+            "name": "🍋动漫巴士(T4)",
+            "type": 4,
+            "api": "https://py.doube.eu.org/spider?site=Dm84",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "py_dm84",
+            "name": "动漫巴士(py)",
+            "type": 3,
+            "api": "./py/动漫巴士.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
         },
         {
             "key": "actor",
