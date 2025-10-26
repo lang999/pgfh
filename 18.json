@@ -215,6 +215,248 @@
             "filterable": 1
         },
         {
+            "key": "免费高清4K",
+            "name": "🔞免费高清4K",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/免费高清4K.json"
+        },
+        {
+            "key": "FC2官网",
+            "name": "🔞FC2官网",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/FC2官网.json"
+        },
+        {
+            "key": "黑猫AV",
+            "name": "🔞黑猫AV",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/黑猫AV.json"
+        },
+        {
+            "key": "唐人影视",
+            "name": "🔞唐人影视",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/唐人影视.json"
+        },
+        {
+            "key": "高清SEX国产",
+            "name": "🔞高清SEX国产",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/高清SEX国产.json"
+        },
+        {
+            "key": "高清sexy国产",
+            "name": "🔞高清国产",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "发布地址": "https://eitha--ytf.anyeav018.xyz/%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3/",
+                "主页url": "https://ray-ship-toy.sexav-001.com/ssss",
+                "数组": "class=\"item-box\">&&</a",
+                "图片": "src=\"&&\"",
+                "副标题": "<!-- <small>&&</small> -->",
+                "简介": "description\" content=\"&&|全站免费",
+                "链接": "https://ray-ship-toy.sexav-001.com/v/+href=\"/voddetail/&&/\"+/",
+                "搜索模式": "1",
+                "搜索url": "https://ray-ship-toy.sexav-001.com/s/?wd=",
+                "搜索链接前缀": "https://ray-ship-toy.sexav-001.com",
+                "搜索链接后缀": ".html",
+                "搜索后缀": "/voddetail/",
+                "链接是否直接播放": "1",
+                "分类数组": "<a&&/a",
+                "分类标题": ">&&<",
+                "分类ID": "/t/&&/",
+                "分类url": "https://ray-ship-toy.sexav-001.com/t/{cateId}-{catePg}/;;z"
+            }
+        },
+        {
+            "key": "那个搜索",
+            "name": "🔞那个搜索",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/那个搜索.json"
+        },
+        {
+            "key": "花都影院py",
+            "name": "🔞花都影院py",
+            "type": 3,
+            "api": "./py/花都影院.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "江湖小红薯APP",
+            "name": "🔞江湖小红薯APP",
+            "type": 3,
+            "api": "./py/江湖小红薯APP.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "纯福利小红薯",
+            "name": "🔞纯福利小红薯",
+            "type": 3,
+            "api": "./py/纯福利小红薯.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "lz小红薯APP",
+            "name": "🔞lz小红薯APP",
+            "type": 3,
+            "api": "./py/lz小红薯APP.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "水果派解说",
+            "name": "🔞水果派解说",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/水果派解说.json"
+        },
+        {
+            "key": "高清福利社",
+            "name": "🔞高清福利社",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/高清福利社.json"
+        },
+        {
+            "key": "草草视频",
+            "name": "🔞草草视频",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/草草视频.json"
+        },
+        {
+            "key": "以茎制洞",
+            "name": "🔞以茎制洞",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/以茎制洞.json"
+        },
+        {
+            "key": "三区",
+            "name": "🔞三区",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/三区.json"
+        },
+        {
+            "key": "一区",
+            "name": "🔞一区",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/一区.json"
+        },
+        {
+            "key": "一个区",
+            "name": "🔞一个区",
+            "type": 3,
+            "api": "./py/一个区.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "fullhd",
+            "name": "🔞fullhd",
+            "type": 3,
+            "api": "./py/fullhd.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "lav",
+            "name": "🔞lav",
+            "type": 3,
+            "api": "./py/lav.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
             "key": "17av",
             "name": "🔞17av",
             "type": 3,
@@ -417,16 +659,6 @@
             "ext": "./json/奶妃Online.json"
         },
         {
-            "key": "花都影院py",
-            "name": "🔞花都影院py",
-            "type": 3,
-            "api": "./py/花都影院.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "花都影院",
             "name": "🔞花都影院",
             "type": 3,
@@ -539,15 +771,6 @@
             "api": "csp_XBPQ",
             "jar": "./jar/XBPQ.jar",
             "ext": "./json/痴迷AV.json"
-        },
-        {
-            "key": "一个区",
-            "name": "🔞一个区",
-            "type": 3,
-            "api": "./py/一个区.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": " 葡萄5区",
@@ -2818,35 +3041,6 @@
             }
         },
         {
-            "key": "高清sex国产",
-            "name": "🔞高清国产👨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "发布地址": "https://eitha--ytf.anyeav018.xyz/%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3/",
-                "主页url": "https://ray-ship-toy.sexav-001.com/ssss",
-                "数组": "class=\"item-box\">&&</a",
-                "图片": "src=\"&&\"",
-                "副标题": "<!-- <small>&&</small> -->",
-                "简介": "description\" content=\"&&|全站免费",
-                "链接": "https://ray-ship-toy.sexav-001.com/v/+href=\"/voddetail/&&/\"+/",
-                "搜索模式": "1",
-                "搜索url": "https://ray-ship-toy.sexav-001.com/s/?wd=",
-                "搜索链接前缀": "https://ray-ship-toy.sexav-001.com",
-                "搜索链接后缀": ".html",
-                "搜索后缀": "/voddetail/",
-                "链接是否直接播放": "1",
-                "分类数组": "<a&&/a",
-                "分类标题": ">&&<",
-                "分类ID": "/t/&&/",
-                "分类url": "https://ray-ship-toy.sexav-001.com/t/{cateId}-{catePg}/;;z"
-            }
-        },
-        {
             "key": "高清黑料",
             "name": "🔞高清黑料🍁",
             "type": 3,
@@ -3192,18 +3386,6 @@
             }
         },
         {
-            "key": "三区",
-            "name": "🔞三区",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/三区.json"
-        },
-        {
             "key": "高端外泄",
             "name": "🔞高端外泄",
             "type": 3,
@@ -3298,20 +3480,19 @@
             "timeout": 60
         },
         {
-            "key": "熊猫直播",
-            "name": "🔞熊猫直播(翻)",
-            "type": 3,
-            "api": "./py/熊猫直播.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "Cam4直播",
             "name": "🔞Cam4直播(翻)",
             "type": 3,
             "api": "./py/cam4.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "py_stripchat",
+            "name": "🔞py_stripchat(翻)",
+            "type": 3,
+            "api": "./py/py_stripchat.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -3324,6 +3505,36 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "熊猫直播",
+            "name": "🔞熊猫直播(翻)",
+            "type": 3,
+            "api": "./py/熊猫直播.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "uaa有声",
+            "name": "🔞uaa有声(翻)",
+            "type": 3,
+            "api": "./py/uaa有声.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "有声黄文",
+            "name": "🔞有声黄文(翻)",
+            "type": 3,
+            "api": "./py/ysxs.py",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0
         },
         {
             "key": "ThePorn",
@@ -3370,17 +3581,6 @@
             "name": "🔞91网爆黑料(翻)",
             "type": 3,
             "api": "./py/91网爆黑料.py",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
-        {
-            "key": "uaa有声",
-            "name": "🔞uaa有声(翻)",
-            "type": 3,
-            "api": "./py/uaa有声.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -5160,15 +5360,6 @@
             "filterable": 1
         },
         {
-            "key": "lavAPP",
-            "name": "🔞lavAPP(翻)",
-            "type": 3,
-            "api": "./py/lavAPP.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Xvd",
             "name": "🔞Xvd(翻)",
             "type": 3,
@@ -5232,15 +5423,6 @@
             "name": "🔞DSYS(翻)",
             "type": 3,
             "api": "./py/DSYS.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "py_stripchat",
-            "name": "🔞py_stripchat(翻)",
-            "type": 3,
-            "api": "./py/py_stripchat.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
