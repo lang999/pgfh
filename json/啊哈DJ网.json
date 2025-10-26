@@ -14,7 +14,7 @@
     "分类ID": "href=\"/music/id-&&-1.html",
     "二次截取": "yinyue_list&&page_box",
     "数组": "<li&&</li",
-    "图片": "https://www.ahadj.com/res/home/images/music_37.png",
+    "图片": "https://v2.api-m.com/api/meinvpic?return=302",
     "标题": "<h*>&&</h",
     "副标题": "icon-huo\">&&</span",
     "链接": "href=\"&&\"",
