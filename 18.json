@@ -13,6 +13,16 @@
             "ext": "./lib/tokenm.json$$$./lib/douban.json"
         },
         {
+            "key": "php_server",
+            "name": "PHP爬虫",
+            "type": 3,
+            "api": "csp_PhpServer",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/fm_xMydev.jar"
+        },
+        {
             "key": "js模板",
             "name": "🔞js模板(js)",
             "type": 3,
@@ -86,18 +96,6 @@
             "searchable": 0,
             "changeable": 0,
             "ext": "https://fm.t4tv.hz.cz/json/market.json"
-        },
-        {
-            "name": "嗷呜弹幕",
-            "key": "嗷呜弹幕",
-            "type": 3,
-            "api": "csp_GoConfig",
-            "jar": "http://aw.0890.dpdns.org/spider/custom_spider.jar",
-            "indexs": 1,
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0
         },
         {
             "key": "直播转点播",
