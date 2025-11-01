@@ -1,44 +1,88 @@
 {
     "urls": [
         {
-            "name": "OK佬1",
-            "url": "http://ok321.top/tv"
-        },
-        {
-            "name": "OK佬1(备用)",
-            "url": "https://10352.kstore.vip/tv"
-        },
-        {
-            "name": "OK佬2",
-            "url": "http://ok321.top/ok"
-        },
-        {
-            "name": "OK佬2(备用)",
-            "url": "https://10352.kstore.vip/ok"
-        },
-        {
-            "name": "饭太硬接口",
-            "url": "http://www.饭太硬.com/tv"
-        },
-        {
-            "name": "肥猫",
+            "name": "🌈肥猫",
             "url": "http://肥猫.com/"
         },
         {
-            "name": "肥猫1(备用)",
+            "name": "❤️OK佬1",
+            "url": "http://ok321.top/tv"
+        },
+        {
+            "name": "❤️OK佬2",
+            "url": "http://ok321.top/ok"
+        },
+        {
+            "name": "❤️OK佬1(备用)",
+            "url": "https://10352.kstore.vip/tv"
+        },
+        {
+            "name": "❤️OK佬2(备用)",
+            "url": "https://10352.kstore.vip/ok"
+        },
+        {
+            "name": "❤️饭太硬接口",
+            "url": "http://www.饭太硬.com/tv"
+        },
+        {
+            "name": "🌈肥猫1(备用)",
             "url": "http://hello.肥猫.com/"
         },
         {
-            "name": "肥猫2(备用)",
+            "name": "🌈肥猫2(备用)",
             "url": "https://6296.kstore.vip/fm.gif"
         },
         {
-            "name": "潇洒纯直连",
+            "name": "🌈潇洒纯直连",
             "url": "https://9877.kstore.space/AnotherDS/movie.json"
         },
         {
-            "name": "💝在线💝道长降魔",
-            "url": "https://pastebin.com/raw/5NHaxyGR"
+            "name": "🌈testnmb采集",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/main/cj.json"
+        },
+        {
+            "name": "🌈pg缝合",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/main/jsm1.json"
+        },
+        {
+            "name": "🌈免扫4K",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/guot55/yg/main/pg/jsm2.json"
+        },
+        {
+            "name": "🌈XC(有弹幕)",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+        },
+        {
+            "name": "🌈苏api",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/su147456888444/tvbox/main/api.txt"
+        },
+        {
+            "name": "🌈alantang1977 X",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/alantang1977/X/main/X.json"
+        },
+        {
+            "name": "🌈alantang1977 aTV",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/alantang1977/X/main/aTV.json"
+        },
+        {
+            "name": "🌈alantang1977 采集",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/alantang1977/X/main/采集.json"
+        },
+        {
+            "name": "🌈cyao2q m",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/cyao2q/files/master/m.json"
+        },
+        {
+            "name": "🌈cyao2q n",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/cyao2q/files/master/n.json"
+        },
+        {
+            "name": "🌈晨雨box",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/cluntop/tvbox/main/box.json"
+        },
+        {
+            "name": "🌈4TVBox",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/4TVBox/TVBox/main/config.json"
         }
     ]
 }
