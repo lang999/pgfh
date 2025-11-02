@@ -24,15 +24,6 @@
             "ext": {}
         },
         {
-            "key": "py模板",
-            "name": "🔞py模板",
-            "type": 3,
-            "api": "./py/py模板.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "json模板",
             "name": "🔞json模板",
             "type": 3,
@@ -43,6 +34,15 @@
             "api": "csp_XBPQ",
             "jar": "./jar/XBPQ.jar",
             "ext": "./json/json模板.json"
+        },
+        {
+            "key": "py模板",
+            "name": "🔞py模板",
+            "type": 3,
+            "api": "./py/py模板.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "Local",
@@ -225,6 +225,15 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/FC2官网.json"
+        },
+        {
+            "key": "神秘影院",
+            "name": "🔞神秘影院",
+            "type": 3,
+            "api": "./py/神秘影院.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "黑猫AV",
@@ -3860,6 +3869,19 @@
             "changeable": 0
         },
         {
+            "key": "Javbobo",
+            "name": "🔞Javbobo(翻)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "api": "./py/Javbobo.py",
+            "ext": {
+                "proxy": {},
+                "plp": ""
+            }
+        },
+        {
             "key": "ThePorn",
             "name": "🔞ThePorn(翻)",
             "type": 3,
@@ -5650,15 +5672,6 @@
             }
         },
         {
-            "key": "javxbb",
-            "name": "🔞javxbb(翻)",
-            "type": 3,
-            "api": "./py/javxbb.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "吃瓜",
             "name": "🔞吃瓜(翻)",
             "type": 3,
@@ -5704,6 +5717,15 @@
             "filterable": 1
         },
         {
+            "key": "Xhm免",
+            "name": "🔞Xhm免",
+            "type": 3,
+            "api": "./py/Xhm免.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "xhm",
             "name": "🔞xhm(翻)",
             "type": 3,
@@ -5720,6 +5742,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "xhamster免",
+            "name": "🔞xhamster免",
+            "type": 3,
+            "api": "./py/xhamster免.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
         },
         {
             "key": "xhamster",

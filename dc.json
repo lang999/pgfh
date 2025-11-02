@@ -5,23 +5,23 @@
             "url": "http://肥猫.com/"
         },
         {
-            "name": "❤️OK佬1",
+            "name": "🌈OK佬1",
             "url": "http://ok321.top/tv"
         },
         {
-            "name": "❤️OK佬2",
+            "name": "🌈OK佬2",
             "url": "http://ok321.top/ok"
         },
         {
-            "name": "❤️OK佬1(备用)",
+            "name": "🌈OK佬1(备用)",
             "url": "https://10352.kstore.vip/tv"
         },
         {
-            "name": "❤️OK佬2(备用)",
+            "name": "🌈OK佬2(备用)",
             "url": "https://10352.kstore.vip/ok"
         },
         {
-            "name": "❤️饭太硬接口",
+            "name": "🌈饭太硬接口",
             "url": "http://www.饭太硬.com/tv"
         },
         {
@@ -57,6 +57,18 @@
             "url": "https://down.nigx.cn/raw.githubusercontent.com/su147456888444/tvbox/main/api.txt"
         },
         {
+            "name": "🌈qist",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/qist/tvbox/master/jsm.json"
+        },
+        {
+            "name": "🌈qist潇洒",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json"
+        },
+        {
+            "name": "🌈潇洒电视",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/qist/tvbox/master/xiaosa/dianshi.json"
+        },
+        {
             "name": "🌈alantang1977 X",
             "url": "https://down.nigx.cn/raw.githubusercontent.com/alantang1977/X/main/X.json"
         },
@@ -77,12 +89,40 @@
             "url": "https://down.nigx.cn/raw.githubusercontent.com/cyao2q/files/master/n.json"
         },
         {
-            "name": "🌈晨雨box",
+            "name": "🌈cluntop",
             "url": "https://down.nigx.cn/raw.githubusercontent.com/cluntop/tvbox/main/box.json"
         },
         {
             "name": "🌈4TVBox",
             "url": "https://down.nigx.cn/raw.githubusercontent.com/4TVBox/TVBox/main/config.json"
+        },
+        {
+            "name": "🌈lemonguo121",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/lemonguo121/BoxRes/main/Myuse/cat.json"
+        },
+        {
+            "name": "🌈ls125781003",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/ls125781003/testboxapi/main/tvbox/api.json"
+        },
+        {
+            "name": "🎵DG戏曲",
+            "url": "http://101.200.122.188/xiqu"
+        },
+        {
+            "name": "🎵DG音乐台",
+            "url": "https://ddzb.fun/dgmusic/api.json"
+        },
+        {
+            "name": "🎵TG音乐",
+            "url": "https://7337.kstore.space/TGMTV/TGyinyue.txt"
+        },
+        {
+            "name": "🎵晓宇音乐",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/123linyao123/TV/main/yy.txt"
+        },
+        {
+            "name": "🎵alenin-zhang音乐",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/alenin-zhang/IPTV/main/music"
         }
     ]
 }
