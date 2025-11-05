@@ -104,6 +104,15 @@
             "filterable": 1
         },
         {
+            "key": "php在线",
+            "name": "php在线",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/php.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "蜗牛影院",
             "name": "🔞蜗牛影院",
             "type": 3,
@@ -4566,26 +4575,25 @@
             }
         },
         {
-            "key": "SOAV",
-            "name": "🔞SOAV(翻)",
+            "key": "csp_SOAV",
+            "name": "🔞SOAV视频(翻)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.5
             },
             "ext": {
-                "主页url": "https://777170.xyz/",
-                "搜索url": "https://777170.xyz/?s={wd}",
-                "数组": "data-video-uid=&&</div>",
+                "主页url": "https://777115.xyz",
+                "搜索url": "https://777115.xyz/?s={wd}",
+                "数组": "data-video-id=&&</div>",
                 "图片": "data-src=\"&&\"",
                 "标题": "alt=\"&&\"",
                 "副标题": "</i>&&</span>",
                 "链接": "href=\"&&\"",
-                "简介": "⚠️少看点，再看你就废了！！！",
-                "分类url": "https://777170.xyz/{cateId}/page/{catePg}/?filter={by};;z",
-                "分类": "中文字幕$中文字幕#探花約炮$探花約炮#國產精選$國產精選#日韩视频$日韩视频"
+                "简介": "",
+                "分类url": "https://777115.xyz/{cateId}/page/{catePg}/;;z",
+                "分类": "探花約炮$%e6%8e%a2%e8%8a%b1%e7%b4%84%e7%82%ae#日韓视频$%e6%97%a5%e9%9f%a9%e8%a7%86%e9%a2%91#国产嫩妹$%e5%9c%8b%e7%94%a2%e5%ab%a9%e5%a6%b9#歐美專區$%e6%ad%90%e7%be%8e%e4%b8%ad%e5%ad%97#國產視頻$%e5%9b%bd%e4%ba%a7%e8%a7%86%e9%a2%91#網紅主播$%e7%b6%b2%e7%b4%85%e4%b8%bb%e6%92%ad#吃瓜黑料$%e5%90%83%e7%93%9c%e9%bb%91%e6%96%99#日本无码$%e6%97%a5%e6%9c%ac%e6%97%a0%e7%a0%81"
             }
         },
         {
@@ -5120,6 +5128,29 @@
                 "分类": "无码中文字幕$5#有码中文字幕$6#日本无码$7#日本有吗$8#国产视频$9",
                 "嗅探词": ".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
                 "直接播放": "1"
+            }
+        },
+        {
+            "key": "13AV✈️",
+            "name": "✈️13AV5备用",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://13av.com/",
+                "过滤词": ".mp4",
+                "数组": "overflow-hidden shadow-lg&&</div",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "副标题": "bg-opacity-75\">&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "⚠️慢点撸，皮要掉了！！！",
+                "分类url": "https://13av.com/{cateId}?page={catePg};;z",
+                "分类": "中文字幕$chinese-subtitle#国产AV$madou#欧美大片$genres/%E5%A4%96%E5%9B%BD%E5%A5%B3%E4%BC%98#最近更新$new#新作上市$release#无码流出$uncensored-leak#东京热$tokyohot#一本道$1pondo#FC2$fc2#HEYZO$heyzo#加勒比$caribbeancom#加勒比PR$caribbeancompr#10musume$10musume#pacopacomama$pacopacomama#gachinco$gachinco#XXX-AV$xxxav#人妻斬$marriedslash#顽皮4610$naughty4610#顽皮0930$naughty0930#VR$VR#SIRO$siro#LUXU$luxu#GANA$gana#MAAN$maan#S-CUTE$scute#ARA$ara#麻豆傳媒$madou#TWAV$twav#韓國直播$klive#中國直播$clive"
             }
         },
         {
