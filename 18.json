@@ -71,7 +71,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
-
+        {
+            "key": "php在线",
+            "name": "php在线",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/php.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "蜗牛影院",
             "name": "🔞蜗牛影院",
