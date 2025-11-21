@@ -3817,6 +3817,19 @@
             "changeable": 0
         },
         {
+            "key": "javxx",
+            "name": "🔞javxx(翻)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "api": "./py/javxx.py",
+            "ext": {
+                "proxy": {},
+                "plp": ""
+            }
+        },
+        {
             "key": "Javbobo",
             "name": "🔞Javbobo(翻)",
             "type": 3,
