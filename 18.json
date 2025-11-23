@@ -3817,6 +3817,17 @@
             "changeable": 0
         },
         {
+            "key": "优视频",
+            "name": "🔞优视频(翻)",
+            "type": 3,
+            "api": "./py/优视频.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 1,
+            "ext": ""
+        },
+        {
             "key": "javxx",
             "name": "🔞javxx(翻)",
             "type": 3,
