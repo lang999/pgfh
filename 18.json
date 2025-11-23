@@ -151,6 +151,15 @@
             "filterable": 1
         },
         {
+            "key": "玩物社区",
+            "name": "🔞玩物社区",
+            "type": 3,
+            "api": "./py/玩物社区.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "免费高清4K",
             "name": "🔞免费高清4K",
             "type": 3,
