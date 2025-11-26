@@ -70,7 +70,12 @@ class Spider(Spider):
             return None
 
     def categoryContent(self, tid, pg, filter, extend):
-        url = f"https://theporn.cc/{tid}?page={pg}" if int(pg) > 1 else f"https://theporn.cc/{tid}"
+        # 修复翻页逻辑
+        if int(pg) == 1:
+            url = f"https://theporn.cc/{tid}"
+        else:
+            url = f"https://theporn.cc/{tid}/{pg}"
+        
         rsp = self.fetch(url)
         root = pq(rsp.text)
         
@@ -81,10 +86,30 @@ class Spider(Spider):
                 videos = [self.parseVideoItem(item) for item in video_list.items()]
                 break
         
+        # 尝试获取总页数
+        pagecount = 9999
+        try:
+            pagination = root('.pagination')
+            if pagination.length > 0:
+                page_links = pagination.find('a')
+                if page_links.length > 0:
+                    last_page = 1
+                    for link in page_links.items():
+                        href = link.attr('href')
+                        if href:
+                            # 从URL中提取页码
+                            match = re.search(r'/(\d+)$', href)
+                            if match:
+                                page_num = int(match.group(1))
+                                last_page = max(last_page, page_num)
+                    pagecount = last_page
+        except:
+            pass
+        
         return {
             'list': videos,
             'page': int(pg),
-            'pagecount': 9999,
+            'pagecount': pagecount,
             'limit': 90,
             'total': 999999
         }
@@ -115,7 +140,13 @@ class Spider(Spider):
         }]}
 
     def searchContent(self, key, quick, page='1'):
-        rsp = self.fetch(f"https://theporn.cc/search/{key}")
+        # 搜索页面的翻页逻辑
+        if int(page) == 1:
+            url = f"https://theporn.cc/search/{key}"
+        else:
+            url = f"https://theporn.cc/search/{key}/{page}"
+            
+        rsp = self.fetch(url)
         root = pq(rsp.text)
         
         for selector in ['.search-results .video-item', '.video-list .avdata-outer', '.avdata-outer']:
